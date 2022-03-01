@@ -4,6 +4,8 @@ import './App.css'
 
 function App() {
 
+  console.log('test')
+
   const videoRef = useRef(null);
   const photoRef = useRef(null);
 
